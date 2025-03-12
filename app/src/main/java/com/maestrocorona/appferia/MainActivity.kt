@@ -89,7 +89,7 @@ fun BusinessItem(text: String) {
             Text(
                 text = text,
                 modifier = Modifier.padding(8.dp),
-                fontFamily = FontFamily.SansSerif // Cambio a fuente Sans Serif
+                fontFamily = FontFamily.SansSerif // Cambio de fuente Sans Serif
             )
         }
     }
